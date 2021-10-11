@@ -5,7 +5,7 @@ I am a professional web developer and software engineering student
 :computer: <i>Web Developement, UI/UX designer, Software Developer</i>. 
 
 :vulcan_salute: <i>I am a <b>frontend developer</b>, currently serving as <b>Director Expert in Google DSC MUET</b></i>. 
-
+<hr>
 ## My Skillset
 
 ### 👉 Programming languages
@@ -90,5 +90,9 @@ I am a professional web developer and software engineering student
 </div>
 <br><br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=iamzaidsoomro">
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=iamzaidsoomro&show_icons=true&theme=dracula&hide_border=true&bg_color=1F222E"/>
+  <img width="450px" src="https://github-readme-streak-stats.herokuapp.com?user=iamzaidsoomro&theme=dracula&hide_border=true&fire=C77800&ring=DD910B&background=1F222E"/>
+  <hr>
+  <a href="https://gdsc.community.dev/mehran-university-of-engineering-and-technology/"><img alt="Zaid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamzaidsoomro&theme=rogue"/></a>
+
 </div>

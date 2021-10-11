@@ -39,7 +39,7 @@ I am a professional web developer and software engineering student
 
 </p>
 
-### 👉 Frameworks & Tools
+### 💻 Frameworks & Tools
 <p align="left"> 
 &emsp;
   <a href="#" target="_blank"> 
@@ -63,7 +63,7 @@ I am a professional web developer and software engineering student
   </a>
 </p>
 
-### 👉 IDEs I am Expert at
+### 🌟 IDEs I am Expert at
 <p align="left"> 
     &emsp;
   <a href="#" target="_blank"> 

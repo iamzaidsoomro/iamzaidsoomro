@@ -55,5 +55,6 @@ I am a professional web developer and software engineering student
 </div>
 <br><br>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username={iamzaidsoomro}">
+    <img src="https://github-readme-stats.vercel.app/api?username=iamzaidsoomro">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamzaidsoomro">
 </div>

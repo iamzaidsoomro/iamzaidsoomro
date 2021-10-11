@@ -51,4 +51,9 @@ I am a professional web developer and software engineering student
 <br><br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=iamzaidsoomro.iamzaidsoomro">
+  <img src="https://img.shields.io/github/followers/iamzaidsoomro?label=Followers&style=social)](https://github.com/iamzaidsoomro)">
+</div>
+<br><br>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username={iamzaidsoomro}">
 </div>

@@ -49,6 +49,6 @@ I am a professional web developer and software engineering student
   </tbody>
 </table>
 <br><br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=iamzaidsoomro&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=iamzaidsoomro.iamzaidsoomro)
 -----
 Credits: [xiaoluoboding](https://github.com/xiaoluoboding)

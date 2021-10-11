@@ -49,5 +49,6 @@ I am a professional web developer and software engineering student
   </tbody>
 </table>
 <br><br>
------
-Credits: [xiaoluoboding](https://github.com/xiaoluoboding)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=iamzaidsoomro.iamzaidsoomro">
+</div>

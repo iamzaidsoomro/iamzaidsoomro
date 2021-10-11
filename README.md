@@ -6,7 +6,7 @@ I am a professional web developer and software engineering student
 
 :vulcan_salute: <i>I am a <b>frontend developer</b>, currently serving as <b>Director Expert in Google DSC MUET</b></i>. 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## My Skillset
 
 <table>
   <tbody>

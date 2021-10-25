@@ -41,7 +41,11 @@ I am a professional web developer and software engineering student
 
 ### 💻 Frameworks & Tools
 <p align="left"> 
-&emsp;
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Materialize CSS" src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white">
+   </a>
+  &emsp;
   <a href="#" target="_blank"> 
      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
    </a>

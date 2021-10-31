@@ -37,6 +37,10 @@ I am a professional web developer and software engineering student
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   </a>
 
+  &emsp;
+<a href="#">
+    <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
+  </a>
 </p>
 
 ### 💻 Frameworks & Tools
@@ -44,6 +48,10 @@ I am a professional web developer and software engineering student
   &emsp;
   <a href="#" target="_blank"> 
      <img alt="Materialize CSS" src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
    </a>
   &emsp;
   <a href="#" target="_blank"> 
@@ -55,7 +63,7 @@ I am a professional web developer and software engineering student
   </a>   
   &emsp;
   <a href="#" target="_blank">
-    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=yellow">
   </a> 
    &emsp;
   <a href="#" target="_blank"> 

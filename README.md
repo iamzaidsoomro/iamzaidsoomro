@@ -10,9 +10,7 @@ I am a professional web developer and software engineering student
 
 ### 👉 Programming languages
 
-<p align="left"> 
-  
-
+<p align="center"> 
   <a href="#">
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
@@ -36,7 +34,10 @@ I am a professional web developer and software engineering student
 <a href="#">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   </a>
-
+  &emsp;
+<a href="#">
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  </a>
   &emsp;
 <a href="#">
     <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
@@ -44,7 +45,7 @@ I am a professional web developer and software engineering student
 </p>
 
 ### 💻 Frameworks & Tools
-<p align="left"> 
+<p align="center"> 
   &emsp;
   <a href="#" target="_blank"> 
      <img alt="Materialize CSS" src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white">
@@ -73,10 +74,14 @@ I am a professional web developer and software engineering student
   <a href="#" target="_blank"> 
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  &emsp; 
+  <a href="#" target="_blank"> 
+   <img alt="Git" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  </a>
 </p>
 
 ### 🌟 IDEs I am Expert at
-<p align="left"> 
+<p align="center"> 
     &emsp;
   <a href="#" target="_blank"> 
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>

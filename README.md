@@ -58,6 +58,10 @@ I am a professional web developer and software engineering student
   <a href="#" target="_blank"> 
      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
    </a>
+    &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+   </a>
   &emsp; 
   <a href="#" target="_blank"> 
    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -78,6 +82,10 @@ I am a professional web developer and software engineering student
   <a href="#" target="_blank"> 
    <img alt="Git" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </a>
+    &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+   </a>
 </p>
 
 ### 🌟 IDEs I am Expert at

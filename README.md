@@ -2,7 +2,7 @@
 
 I am a professional web developer and software engineering student
 
-:computer: <i>Web Developement, UI/UX designer, Software Developer</i>. 
+:computer: <i>Web Developer, Software Developer</i>. 
 
 :vulcan_salute: <i>I am a <b>frontend developer</b>, currently serving as <b>Director Expert in Google DSC MUET</b></i>. 
 <hr>

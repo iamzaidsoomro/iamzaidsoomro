@@ -115,8 +115,7 @@ I am a professional web developer and software engineering student
 </div>
 <br><br>
 <div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=iamzaidsoomro&show_icons=true&theme=dracula&hide_border=true&bg_color=1F222E"/>
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=iamzaidsoomro&theme=dracula&hide_border=true&fire=C77800&ring=DD910B&background=1F222E"/>
+  <img width="550px" src="https://metrics.lecoq.io/iamzaidsoomro?template=classic&isocalendar=1&code=1&achievements=1&lines=1&introduction=1&tweets=1&activity=1&isocalendar.duration=full-year&code.lines=12&code.load=100&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FKarachi"/>
   <hr>
   <a href="https://gdsc.community.dev/mehran-university-of-engineering-and-technology/"><img alt="Zaid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamzaidsoomro&theme=rogue"/></a>
 

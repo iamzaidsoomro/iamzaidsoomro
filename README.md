@@ -1,4 +1,4 @@
-## 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 <b>Zaid</b>,  
+## 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 <b>Zaid Ahmed Soomro</b>,  
 
 I am a professional web developer and software engineering student
 

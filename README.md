@@ -9,12 +9,12 @@ I am a professional web developer and software engineering student
 <h2> My Skillset </h2>
 
 ### 👉 Programming languages
-
 <p align="center"> 
+  &emsp;
   <a href="#">
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
-&emsp;
+  &emsp;
 <a href="#">
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
@@ -46,6 +46,15 @@ I am a professional web developer and software engineering student
 
 ### 💻 Frameworks & Tools
 <p align="center"> 
+  
+  &emsp; 
+  <a href="#" target="_blank"> 
+   <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  </a>
+    &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white">
+   </a>
   &emsp;
   <a href="#" target="_blank"> 
      <img alt="Materialize CSS" src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white">
@@ -77,10 +86,6 @@ I am a professional web developer and software engineering student
   &emsp;
   <a href="#" target="_blank"> 
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a href="#" target="_blank"> 
-   <img alt="Git" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </a>
     &emsp;
   <a href="#" target="_blank"> 

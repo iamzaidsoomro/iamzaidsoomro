@@ -46,12 +46,11 @@ I am a professional web developer and software engineering student
 
 ### 💻 Frameworks & Tools
 <p align="center"> 
-  
   &emsp; 
   <a href="#" target="_blank"> 
    <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </a>
-    &emsp;
+  &emsp;
   <a href="#" target="_blank"> 
      <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white">
    </a>
@@ -67,7 +66,7 @@ I am a professional web developer and software engineering student
   <a href="#" target="_blank"> 
      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
    </a>
-    &emsp;
+  &emsp;
   <a href="#" target="_blank"> 
      <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
    </a>
@@ -79,7 +78,7 @@ I am a professional web developer and software engineering student
   <a href="#" target="_blank">
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=yellow">
   </a> 
-   &emsp;
+  &emsp;
   <a href="#" target="_blank"> 
     <img alt="Photoshop" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15"/>
   </a>
@@ -87,10 +86,14 @@ I am a professional web developer and software engineering student
   <a href="#" target="_blank"> 
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-    &emsp;
+  &emsp;
   <a href="#" target="_blank"> 
      <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-   </a>
+  </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+  </a>
 </p>
 
 ### 🌟 IDEs I am Expert at

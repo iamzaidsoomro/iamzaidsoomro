@@ -115,6 +115,30 @@ I am a professional web developer and software engineering student
   </a>
 </p>
 
+### 😺 Follow me at
+  <p align="center"> 
+      &emsp;
+    <a href="https://medium.com/@iamzaid" target="_blank"> 
+      <img alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+    </a>
+      &emsp;
+    <a href="https://www.linkedin.com/in/iamzaidsoomro/" target="_blank"> 
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+      &emsp;
+    <a href="https://twitter.com/ZaidSoomro17" target="_blank"> 
+      <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    </a>
+  </p>
+  
+### 👨‍💼 Hire me at
+  <p align="center"> 
+      &emsp;
+    <a href="https://www.fiverr.com/zaidsoomro3?public_mode=true" target="_blank"> 
+      <img alt="Fiverr" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+    </a>
+  </p>
+
 ## My Stats :rocket:
 <br>
 <div align="center">

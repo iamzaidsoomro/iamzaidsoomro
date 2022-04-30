@@ -137,6 +137,10 @@ I am a professional web developer and software engineering student
     <a href="https://www.fiverr.com/zaidsoomro3?public_mode=true" target="_blank"> 
       <img alt="Fiverr" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
     </a>
+        &emsp;
+    <a href="https://www.upwork.com/freelancers/~01234f7c242319c472" target="_blank"> 
+      <img alt="Upwork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+    </a>
   </p>
 
 ## My Stats :rocket:

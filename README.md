@@ -118,7 +118,7 @@ I am a professional web developer and software engineering student
 ### 😺 Follow me at
   <p align="center"> 
       &emsp;
-    <a href="https://medium.com/@iamzaid" target="_blank"> 
+    <a href="https://zaidahmedsoomro.medium.com/" target="_blank"> 
       <img alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
     </a>
       &emsp;

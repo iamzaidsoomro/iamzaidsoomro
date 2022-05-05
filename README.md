@@ -4,7 +4,7 @@ I am a professional web developer and software engineering student
 
 :computer: <i>Web Developer, Software Developer</i>. 
 
-:vulcan_salute: <i>I am a <b>frontend developer</b>, currently serving as <b>Director Expert in Google DSC MUET</b></i>. 
+:vulcan_salute: <i>I am <b>both web, and mobile app developer</b>, currently serving as <b>Director Expert in Google DSC MUET</b></i>. 
 <hr>
 <h2> My Skillset </h2>
 

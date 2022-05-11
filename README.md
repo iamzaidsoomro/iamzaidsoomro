@@ -129,6 +129,10 @@ I am a professional web developer and software engineering student
     <a href="https://twitter.com/ZaidSoomro17" target="_blank"> 
       <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
+      &emsp;
+    <a href="https://www.instagram.com/zaidahmedxd/" target="_blank"> 
+      <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
   </p>
   
 ### 👨‍💼 Hire me at

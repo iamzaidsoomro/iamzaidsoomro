@@ -56,11 +56,11 @@ I am a professional web developer and software engineering student
    </a>
   &emsp;
   <a href="#" target="_blank"> 
-     <img alt="Materialize CSS" src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white">
+     <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    </a>
   &emsp;
   <a href="#" target="_blank"> 
-     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
    </a>
   &emsp;
   <a href="#" target="_blank"> 
@@ -69,6 +69,10 @@ I am a professional web developer and software engineering student
   &emsp;
   <a href="#" target="_blank"> 
      <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+   </a>
+  &emsp; 
+  <a href="#" target="_blank"> 
+     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
    </a>
   &emsp; 
   <a href="#" target="_blank"> 
